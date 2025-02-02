@@ -1,5 +1,7 @@
 # Xyron Labs - Odysee Gen 1
 
+<div style="text-align:center"><img src="logo.jpeg" style="width:150px; border-radius: 50%"/></div>
+
 Welcome to Odysee Gen 1, an open-source large language model project by Xyron Labs.
 
 ![Xyron Labs Banner](images/xyron_labs_banner.png)

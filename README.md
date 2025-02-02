@@ -1,12 +1,3 @@
----
-title: Odysee Gen 1 
-emoji: 🐢
-colorFrom: red
-colorTo: blue
-sdk: static
-pinned: false
----
-
 # Xyron Labs - Odysee Gen 1
 
 Welcome to Odysee Gen 1, an open-source large language model project by Xyron Labs.

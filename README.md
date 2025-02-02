@@ -1,26 +1,15 @@
-# Xyron Labs - Odysee Gen 1
+# Odysee Gen 1
 
-Welcome to Odysee Gen 1, an open-source large language model project by Xyron Labs.
-
-![Xyron Labs Banner](images/xyron_labs_banner.png)
-
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+A lightweight implementation of a language model built for learning and experimentation.
 
 ## Overview
-Odysee Gen 1 is an advanced open-source LLM focused on speed, scalability, and accessibility.
+Odysee Gen 1 is a learning project that implements a basic language model using PyTorch and the Transformers library. It serves as a foundation for understanding how language models work.
 
 ## Features
-- High-performance text generation
-- Optimized model architecture
-- Easy-to-use API
-- Scalable design
+- Basic text generation capabilities
+- Simple API interface
+- Built on PyTorch and Transformers
+- Support for different model sizes
 
 ## Installation
 ```bash
@@ -38,12 +27,5 @@ response = model.generate("Your prompt here")
 print(response)
 ```
 
-## Contributing
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md).
-
 ## License
-MIT License - see [LICENSE](LICENSE)
-
-## Contact
-- Email: xryonlabs@keemail.me
-- Telegram: [Join our group](https://t.me/+5Oz-eVK4Rjw2NTJI)
+MIT License - see LICENSE file

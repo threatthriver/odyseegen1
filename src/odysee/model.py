@@ -1,5 +1,4 @@
 import torch
-import torch.nn as nn
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 class OdyseeModel:
@@ -23,7 +22,6 @@ class OdyseeModel:
             **inputs,
             max_length=max_length,
             num_return_sequences=1,
-            temperature=0.7,
-            do_sample=True
+            temperature=0.7
         )
         return self.tokenizer.decode(outputs[0], skip_special_tokens=True)
